@@ -1,6 +1,10 @@
-# Simple-Agent
+<div align="center">
+
+<img src="banner.png" alt="Simple-Agent" width="100%"/>
 
 **用 ~700 行代码实现现代 AI Agent 核心功能的教学项目**
+
+</div>
 
 一个极简但功能完整的 AI 智能体框架，复现了 Claude Code、Cursor 等现代 Agent 的核心机制。
 
