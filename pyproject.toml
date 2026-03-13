@@ -1,7 +1,7 @@
 [project]
 name = "simple-agent"
 version = "0.1.0"
-description = "Add your description here"
+description = "用 ~700 行代码实现现代 AI Agent 核心功能的教学项目"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
